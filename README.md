@@ -1,4 +1,4 @@
-## How to launch the project 🏁
+## How to launch the project
 
 Install [Node.js](https://nodejs.org/) and then open the Terminal/CMD and navigate to the project's folder.
 Run the following command:
